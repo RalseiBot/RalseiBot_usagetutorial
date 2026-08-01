@@ -40,5 +40,8 @@ RalseiBot使用教程
 
 bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053450535003/1533141997446234132/image.webp?ex=6a6f6940&is=6a6e17c0&hm=5d8ccd16e3981c22255054818cea5f21fcfbf1d2e468568eb27d26d3300f10e4&)
 
+5:暂时没想好写啥
 
--更新日期:2026/8/1 18:57 UTC 
+注意:最终解释权归Project BetterMine(Owner:wangzic and ShiroDye_awa Bot:Ralsei Bot和Susie Bot)所有
+
+-更新日期:2026/8/1 19:26 UTC 
