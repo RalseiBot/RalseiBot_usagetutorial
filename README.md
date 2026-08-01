@@ -30,13 +30,18 @@ Ralsei Bot使用教程
 
 你可以在 任意聊天频道发送 以下图片展示内容:
 
-[图片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed&)
+[图片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed&) (图片是Discord CDN 如果你无法访问)
+
+[无法查看图片的] (https://ibb.co/qFD324qy)
 
 图片里面展示的都可以
 
 如果包含以下这些 以下图片展示内容:
 
 [图片](https://cdn.discordapp.com/attachments/1533133807689924759/1533186200486023400/Screenshot_20260802_025428_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f926b&is=6a6e40eb&hm=70aecd6aadc4fe2041b1fbe46ad8c4c01bd9c57aa16d78bcf0cfeceb9de94845&)
+(图片是Discord CDN 如果你无法访问)
+
+[无法查看图片的] (https://ibb.co/s9yB5J8F)
 
 则不会触发猪猪表情包的发送
 
