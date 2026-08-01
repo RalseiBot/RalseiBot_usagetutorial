@@ -1,4 +1,4 @@
-# RalseiBot_使用教程
+# Ralsei Bot_使用教程
 
 Community:
 [![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
@@ -7,24 +7,25 @@ Community:
 
 注意:RalseiBot是在Astrbot上运行的
 
-RalseiBot使用教程
+Ralsei Bot使用教程
 
-1:如何触发对话 @bot所在身份组 @bot 发送/均可触发bot回复
+1:如何让Bot回答你 @bot 发送/均可触发bot回复
 
 2:漂流瓶
 
 2.1:扔漂流瓶
 使用 /扔漂流瓶 扔出漂流瓶 
                ⚠注意
+
 扔出去的漂流瓶不能包含恐吓，色情，威胁等内容
 如果因此导致对应的qq bot账号被封禁你会受到严厉的惩罚
-我们也会定期检查漂流瓶 如果查出有 立刻剥夺bot使用权
+我们也会定期检查漂流瓶 如果查出发送此类内容 立刻剥夺bot使用权
 
 2.2:捡漂流瓶
-使用 /捡漂流瓶 捡起漂流瓶
+使用 /捡漂流瓶 捡起漂流瓶(如果没有漂流瓶则捡不了)
 
 3:使用规范
-不允许发送大量内容给bot
+不允许发送大量内容给bot(太烧token了)
 
 4:猪猪表情包
 
