@@ -65,6 +65,7 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 
 Discord无法输入反斜杠导致无法无视设定(也就是人设) (也不可能修复吧)
 
+
 <a name="繁体中文教程"></a>
 
 注意:Ralsei Bot是在Astrbot上運行的
