@@ -1,4 +1,4 @@
-# RalseiBot_usagetutorial
+# RalseiBot_使用教程
 
 RalseiBot使用教程
 
