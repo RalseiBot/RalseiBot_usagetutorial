@@ -54,4 +54,8 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 
 [Bot更改频道(需加入BM Discord)](https://discord.com/channels/1305535111697141790/1533196235589156864)
 
---更新日期 2026/8/1 19:46 UTC
+目前已知问题:
+
+Discord无法输入反斜杠导致无法无视设定
+
+--更新日期 2026/8/1 19:48 UTC
