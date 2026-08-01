@@ -14,9 +14,7 @@ Ralsei Bot使用教程
 2.1:扔漂流瓶
 使用 /扔漂流瓶 扔出漂流瓶 
 
-               ⚠注意
-
-扔出去的漂流瓶不能包含恐吓，色情，威胁等内容
+如果扔出去的漂流瓶不能包含恐吓，色情，威胁等内容
 如果因此导致对应的qq bot账号被封禁你将会受到严厉的惩罚
 我们也会定期检查漂流瓶里面的内容(已经打开的) 如果查出发送此类内容 立刻剥夺bot使用权
 
@@ -51,7 +49,7 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 
 注意:最终解释权归Project BetterMine(Owner:wangzic and ShiroDye_awa 所属Bot:Ralsei Bot和Susie Bot)所有
 
-在本仓库和官网发出的对Ralsei Bot的 Issues 和 Pull 一律不受理 请在官方Discord回报Ralsei Bot的错误
+在本仓库和官网的仓库发出的对Ralsei Bot的 Issues 和 Pull 一律不受理 请在官方Discord回报Ralsei Bot的错误
 
 [回报错误频道(需加入BM Discord)](https://discord.com/channels/1305535111697141790/1533195904344002701)
 
