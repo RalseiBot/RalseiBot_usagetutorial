@@ -1,5 +1,10 @@
 # RalseiBot_使用教程
 
+Community:
+[![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
+
+邮箱:nn9088763@gmail.com(回报bug)
+
 RalseiBot使用教程
 
 1:如何触发对话 @bot所在身份组 @bot 发送/均可触发bot回复
