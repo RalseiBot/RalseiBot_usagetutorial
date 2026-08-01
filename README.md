@@ -92,7 +92,7 @@ Discord无法输入反斜杠导致无法无视设定(也就是人设) (也不可
 
  你可以在 任意聊天頻道發送 以下圖片展示內容:
 
- [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozi  lla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed) 
+ [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed&)
  (圖片是來自Discord CDN的 如果你無法查看圖片)
 
  [無法查看圖片的](https://ibb.co/qFD324qy)
@@ -101,14 +101,14 @@ Discord无法输入反斜杠导致无法无视设定(也就是人设) (也不可
 
  如果包含以下這些 以下圖片展示內容:
 
- [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533186200486023400/Screenshot_20260802_025428_org_mozi  lla_fenix_HomeActivity.jpg?ex=6a6f926b&is=6a6e40eb&hm=70aecd6aadc4fe2041b1fbe46ad8c4c01bd9c57aa16d78bcf0cfeceb9de94845&)
+ [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533186200486023400/Screenshot_20260802_025428_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f926b&is=6a6e40eb&hm=70aecd6aadc4fe2041b1fbe46ad8c4c01bd9c57aa16d78bcf0cfeceb9de94845&)
  (圖片是來著Discord CDN的 如果你無法查看圖片)
 
  [無法查看圖片的](https://ibb.co/s9yB5J8F)
 
  則不會觸發豬豬表情包的發送
 
- bot指令選單:[指令選單](https://cdn.discordapp.com/attachments/1322394053450535003/1533141997446234132/image  .webp?ex=6a6f6940&is=6a6e17c0&hm=5d8ccd16e3981c22255054818cea5f21fcfbf1d2e468568eb27d26d3300f21fcfbf1d2e468568eb27d26d3300f10e4&)
+ bot指令選單:[指令選單](https://cdn.discordapp.com/attachments/1322394053450535003/1533141997446234132/image.webp?ex=6a6f6940&is=6a6e17c0&hm=5d8ccd16e3981c22255054818cea5f21fcfbf1d2e468568eb27d26d3300f10e4&)
  如果需要自行查看在任意頻道發送 /helps即可
 
  注意:最終解釋權歸Project BetterMine(Owner:wangzic and ShiroDye_awa 所屬Bot:Ralsei Bot和Susie Bot)所有
