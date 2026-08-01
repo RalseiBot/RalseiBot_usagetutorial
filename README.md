@@ -5,6 +5,8 @@ Community:
 
 邮箱:nn9088763@gmail.com(回报bug)
 
+注意:RalseiBot是在Astrbot上运行的
+
 RalseiBot使用教程
 
 1:如何触发对话 @bot所在身份组 @bot 发送/均可触发bot回复
