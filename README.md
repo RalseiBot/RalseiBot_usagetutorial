@@ -47,3 +47,5 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 注意:最终解释权归Project BetterMine(Owner:wangzic and ShiroDye_awa Bot:Ralsei Bot和Susie Bot)所有
 
 -更新日期:2026/8/1 19:26 UTC 
+
+在本仓库和官网发出的 Issues 和 Pull 一律不受理 请在Discord回报Ralsei Bot的错误
