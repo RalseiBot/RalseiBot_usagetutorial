@@ -92,7 +92,7 @@ Discord无法输入反斜杠导致无法无视设定(也就是人设) (也不可
 
  你可以在 任意聊天頻道發送 以下圖片展示內容:
 
- [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed&)
+[圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533185235863208046/Screenshot_20260802_025021_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f9185&is=6a6e4005&hm=06f1e891cfcfe0569481a6350eb976a3f2e11dee217d93e98b8b1ad565b293ed&)
  (圖片是來自Discord CDN的 如果你無法查看圖片)
 
  [無法查看圖片的](https://ibb.co/qFD324qy)
@@ -101,7 +101,7 @@ Discord无法输入反斜杠导致无法无视设定(也就是人设) (也不可
 
  如果包含以下這些 以下圖片展示內容:
 
- [圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533186200486023400/Screenshot_20260802_025428_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f926b&is=6a6e40eb&hm=70aecd6aadc4fe2041b1fbe46ad8c4c01bd9c57aa16d78bcf0cfeceb9de94845&)
+[圖片](https://cdn.discordapp.com/attachments/1533133807689924759/1533186200486023400/Screenshot_20260802_025428_org_mozilla_fenix_HomeActivity.jpg?ex=6a6f926b&is=6a6e40eb&hm=70aecd6aadc4fe2041b1fbe46ad8c4c01bd9c57aa16d78bcf0cfeceb9de94845&)
  (圖片是來著Discord CDN的 如果你無法查看圖片)
 
  [無法查看圖片的](https://ibb.co/s9yB5J8F)
