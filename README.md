@@ -48,4 +48,4 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 
 -更新日期:2026/8/1 19:26 UTC 
 
-在本仓库和官网发出的对Ralsei Bot的 Issues 和 Pull 一律不受理 请在Discord回报Ralsei Bot的错误
+在本仓库和官网发出的对Ralsei Bot的 Issues 和 Pull 一律不受理 请在Discord回报Ralsei Bot的错误[回报频道(需加入BM Discord)](https://discord.com/channels/1305535111697141790/1533195904344002701)
