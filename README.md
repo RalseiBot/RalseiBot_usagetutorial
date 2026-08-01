@@ -57,4 +57,4 @@ bot指令菜单:[指令菜单](https://cdn.discordapp.com/attachments/1322394053
 
 Discord无法输入反斜杠导致无法无视设定
 
---更新日期 2026/8/1 19:48 UTC
+--更新日期 2026/8/1 19:56 UTC
