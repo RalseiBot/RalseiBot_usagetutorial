@@ -3,6 +3,8 @@
 社区(都是官方的):
 [![Discord](https://img.shields.io/discord/1305535111697141790?label=Discord&logo=discord&color=7289DA)](https://discord.gg/fBRMhdnhSW)
 
+以后去看教程去: https://ralseibot.github.io
+
 繁体中文使用的翻译软件 如果发现翻译问题可以申请合并
 
 繁體中文使用的翻譯軟體 如果發現翻譯問題可以申請合併
